@@ -3,7 +3,7 @@ title: Slowing Atoms with Light
 date: 2024-11-2 0:29:00 +0530
 categories: [Journey, STEM]
 author: 0realize
-tags: [journey]
+tags: [journey, physics]
 pin: false
 description: How Doppler Laser Cooling slows atoms with light physics.
 math: true
