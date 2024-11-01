@@ -113,6 +113,16 @@ comments:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
+  giscus:
+    repo: 0realize/0realize.github.io
+    repo_id: R_kgDONJFxlA
+    category: Announcements
+    category_id: DIC_kwDONJFxlM4Cj5gc
+    mapping: # optional, default to 'pathname'
+    strict: # optional, default to '0'
+    input_position: top # optional, default to 'bottom'
+    lang: # optional, default to the value of `site.lang`
+    reactions_enabled: # optional, default to the value of `1
 
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
