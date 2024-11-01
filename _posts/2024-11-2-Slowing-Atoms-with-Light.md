@@ -17,7 +17,7 @@ Imagine trying to "catch" atoms zooming around in all directions, each moving wi
 
 Laser cooling relies on the idea that light can “push” atoms, but only when the light's frequency matches the energy needed for the atoms to absorb it. This frequency depends on the Doppler effect because the atoms are moving. When an atom moves toward a laser, it experiences the laser light as a bit 'bluer' (higher frequency), which nudges it closer to resonance. When the atom moves away, the light shifts 'redder' (lower frequency), and it’s harder for the atom to absorb it. This effect lets us selectively slow down atoms moving toward a laser.
 
-Mathematically, for an atom moving with speed $$v$$ towards a laser source with frequency $$omega_L$$, the frequency it "see" will be:
+Mathematically, for an atom moving with speed $$v$$ towards a laser source with frequency $$\omega_L$$, the frequency it "see" will be:
 
 $$ \omega^{\prime}=\omega_L\left(1+\frac vc\right) $$
 where $$c$$ is the speed of light.
