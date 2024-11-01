@@ -1,8 +1,10 @@
 ---
 title: Humble Beginnings 
-date: 2024-11-1 
+date: 2024-11-1 17:57:00 +0530
 categories: [Journey, STEM]
-tags: [olympiad, journey]
+author: 0realize
+tags: [journey]
+pin: false
 description: the first (and probably last lol) post
 toc: false
 comments: false
