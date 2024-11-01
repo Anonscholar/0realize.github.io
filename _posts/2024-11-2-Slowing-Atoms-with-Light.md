@@ -1,7 +1,7 @@
 ---
 title: Slowing Atoms with Light
 date: 2024-11-2 0:29:00 +0530
-categories: [Physics]
+categories: [Journey, Physics]
 author: 0realize
 tags: [physics]
 pin: false
