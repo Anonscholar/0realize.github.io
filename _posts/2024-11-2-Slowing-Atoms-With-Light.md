@@ -47,7 +47,7 @@ down the atom.
 Here's the fun part: when an atom absorbs a photon, it gains the photon's
 momentum. For a photon with wavelength $\lambda$ and frequency $$\omega$$, the
 momentum $p$ is given by: 
-$$p=\hbar k=\frac h\lambda$$,
+$$p=\hbar k=\frac h\lambda$$
 $\hbar$ being the reduced Planck's constant, and $k=\frac{2\pi}\lambda$ being the wavenumber.
 This extra momentum adds to the atom’s own, and if the photon travels opposite
 to the atom’s motion, it slows down the atom by exactly this amount.
@@ -90,10 +90,34 @@ a sticky substance.
 
 Now, there’s a limit to how cold we can get the atoms using Doppler cooling
 alone, known as the Doppler limit. At this point, the cooling force from the
-laser balances with the heating effect from the random emission directions. The
-Doppler temperature $$T_D$$ is given by: $$T_D=\frac{\hbar\Gamma}{2k_B}$$
-where $ \Gamma $ is the natural line-width of the atomic transition (basically,
-a measure of how quickly the atom can absorb and re-emit photons), and $$k_B$$
-is the Boltzmann constant. For common atoms like rubidium or cesium, this limit
-is around a few microkelvins, which is impressively cold but still above
-absolute zero.
+laser balances with the heating effect from the random emission directions. 
+Here’s why this limit exists, 
+
+#### Spontaneous Emission as a Heating Mechanism:
+
+In Doppler cooling, photons are absorbed from a laser and then re-emitted
+spontaneously in random directions. While each photon absorption provides a
+directional "kick" that reduces the atom’s momentum, the emission introduces a
+random recoil, resulting in a diffusion-like effect in momentum space that
+counteracts cooling. This emission-based heating cannot be eliminated and
+becomes significant as the atom’s velocity decreases, setting a limit on how
+much cooling is achievable.
+
+#### The Doppler Temperature Expression:
+
+This balance between cooling and heating leads to a steady-state kinetic energy.
+Mathematically, the Doppler limit temperature $T_{D}$ is given by:
+$$T_D=\frac{\hbar\Gamma}{2k_B}$$, where $\hbar$ is the reduced Planck constant,
+$\Gamma$ is the natural linewidth of the atomic transition, and $k_B$ is
+Boltzmann's constant. Here, $\Gamma$ sets the rate of spontaneous emission, with
+a high $\Gamma$ increasing the random recoils (heating effect), thus limiting
+how low the temperature can go.
+
+#### Physical Interpretation: 
+
+At the Doppler limit, the radiative cooling force (from photon absorption) and
+the heating effect (from recoil due to random emission) reach equilibrium. This
+explains why Doppler cooling cannot cool atoms to absolute zero, as any further
+attempt to reduce velocity would increase the heating rate until it matches the
+cooling effect​. ​
+
