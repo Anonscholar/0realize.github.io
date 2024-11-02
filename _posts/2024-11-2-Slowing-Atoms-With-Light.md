@@ -123,4 +123,5 @@ cooling effect​. ​
 
 ## Further Reading:
 
-> 
+> [Laser Cooling and Trapping by Peter van der Straten](/files/laser_cooling_and_trapping.pdf)
+> [Laser Cooling and Trapping AOL](/files/Laser_Cooling_2004.pdf)
