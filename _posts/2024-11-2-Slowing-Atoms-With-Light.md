@@ -20,7 +20,7 @@ reduce the speed of atoms. In this post, we'll look at how Doppler cooling works
 and how it was approached in the IPhO  2009 problem on Doppler laser cooling and
 optical molasses.
 
-# The Basics: Doppler Effect and Laser Cooling
+## The Basics: Doppler Effect and Laser Cooling
 
 Laser cooling relies on the idea that light can “push” atoms, but only when the
 light's frequency matches the energy needed for the atoms to absorb it. This
@@ -42,7 +42,7 @@ frequency $$\omega_0$$, only atoms moving toward the laser get close enough to
 resonance to absorb photons. This interaction results in a "kick" that slows
 down the atom.
 
-# The "Kick" from photon absorption
+## The "Kick" from photon absorption
 
 Here's the fun part: when an atom absorbs a photon, it gains the photon's
 momentum. For a photon with wavelength $\lambda$ and frequency $$\omega$$, the
@@ -59,7 +59,7 @@ This process might not look like much at first, but remember, we’re dealing wi
 an atomic scale here, so small changes in momentum add up over thousands of
 cycles.
 
-# The Role of Spontaneous Emission
+## The Role of Spontaneous Emission
 
 After absorbing a photon, the atom eventually releases this energy by emitting
 another photon. But here’s the twist: the direction of emission is random. This
@@ -71,7 +71,7 @@ The combined force from this cycle is known as the radiation force, and it can
 be expressed as: $$F=R\cdot\hbar k$$ with $ R $ being the photon absorption
 rate. This force is what we rely on to slow down (or “cool”) the atoms.
 
-# Cooling with Counter-Propagating Lasers: Optical Molasses
+## Cooling with Counter-Propagating Lasers: Optical Molasses
 
 One laser beam would only slow atoms moving in one direction. But by using two
 beams moving in opposite directions, we can capture atoms moving in both
@@ -86,7 +86,7 @@ on factors like detuning, laser intensitiy, etc. This is why we call it optical
 “molasses”—atoms are effectively slowed in all directions, like they’re stuck in
 a sticky substance.
 
-# Limits of Doppler Cooling: The Doppler Temperature
+## Limits of Doppler Cooling: The Doppler Temperature
 
 Now, there’s a limit to how cold we can get the atoms using Doppler cooling
 alone, known as the Doppler limit. At this point, the cooling force from the
