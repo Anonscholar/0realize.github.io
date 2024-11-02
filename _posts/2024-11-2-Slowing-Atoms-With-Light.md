@@ -121,7 +121,7 @@ explains why Doppler cooling cannot cool atoms to absolute zero, as any further
 attempt to reduce velocity would increase the heating rate until it matches the
 cooling effect​. ​
 
-## Further Reading:
+## Further Reading
 
-> [Laser Cooling and Trapping by Peter van der Straten](/files/laser_cooling_and_trapping.pdf)
-> [Laser Cooling and Trapping AOL](/files/Laser_Cooling_2004.pdf)
+- [Laser Cooling and Trapping, _Peter van der Straten_](/files/laser_cooling_and_trapping.pdf)
+- [Laser Cooling and Trapping AOL](/files/Laser_Cooling_2004.pdf)
