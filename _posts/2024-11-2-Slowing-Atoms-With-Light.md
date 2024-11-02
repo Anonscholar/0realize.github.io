@@ -47,8 +47,8 @@ down the atom.
 Here's the fun part: when an atom absorbs a photon, it gains the photon's
 momentum. For a photon with wavelength $\lambda$ and frequency $$\omega$$, the
 momentum $p$ is given by: 
-$$p=\hbar k=\frac h\lambda$$ 
-$ \hbar $ being the reduced Planck's constant, and $k=\frac{2\pi}\lambda$ being the wavenumber.
+$$p=\hbar k=\frac h\lambda$$,
+$\hbar$ being the reduced Planck's constant, and $k=\frac{2\pi}\lambda$ being the wavenumber.
 This extra momentum adds to the atom’s own, and if the photon travels opposite
 to the atom’s motion, it slows down the atom by exactly this amount.
 
